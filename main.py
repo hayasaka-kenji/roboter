@@ -2,7 +2,6 @@ from termcolor import colored
 import csv
 import os
 
-
 def robo_talk(str):
     print(colored('🤖: ' + str + '\n', 'green'))
 
